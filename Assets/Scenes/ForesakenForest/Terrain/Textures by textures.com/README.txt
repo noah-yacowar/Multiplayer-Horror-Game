@@ -1,0 +1,1 @@
+Grass.psd and Leaves.psd were created with photographs from Textures.com. These photographs may not be redistributed by default; please visit www.textures.com for more information."
