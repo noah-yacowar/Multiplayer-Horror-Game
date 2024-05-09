@@ -1,6 +1,6 @@
 # Description
 
-Welcome to this Unity multiplayer game! This game offers an exhilarating experience akin to the intense asymmetrical horror gameplay of popular titles in the genre. Players will find themselves immersed in a thrilling environment where teamwork, strategy, and quick decision-making are vital for survival.
+Welcome to this Unity multiplayer game! This game offers a thrilling experience akin to the intense asymmetrical horror gameplay of popular titles in the genre. Players will find themselves immersed in a thrilling environment where teamwork, strategy, and quick decision-making are vital for survival.
 
 This game revolves around a group of players who must work together to repair generators while being hunted by a formidable adversary. Each match is a test of skill and nerve as survivors must evade capture and certain death, while the hunter employs cunning tactics to ensnare and eliminate them.
 
@@ -15,13 +15,21 @@ This game revolves around a group of players who must work together to repair ge
 
 ## Screenshots
 
-### Lobby and Settings
-![Lobby](screenshots/lobby_screenshot.png)
+### Menu and Lobby 
+![Main Menu](Screenshots/main_menu.png)
+![Killer Lobby](Screenshots/killer_lobby.png)
+![Survivor Lobby](Screenshots/survivor_lobby.png)
+![All Players Ready Lobby](Screenshots/lobby_all_players_ready.png)
 
 ### Gameplay
-![Gameplay 1](https://github.com/noah-yacowar/Multiplayer-Horror-Gamegameplay_screenshot1.png)
-![Gameplay 2](https://github.com/noah-yacowar/Multiplayer-Horror-Gamegameplay_screenshot2.png)
-![Gameplay 3](https://github.com/noah-yacowar/Multiplayer-Horror-Gamegameplay_screenshot3.png)
+![Survivor View](Screenshots/survivor_game.png)
+![Survivor Repairing Generator](Screenshots/survivor_repairing_generator.png)
+
+### Survivor Status Symbols
+![Alive Status](Screenshots/player_alive.png)
+![Dead Status](Screenshots/player_dead.png)
+![Disconnected Status](Screenshots/player_disconnected.png)
+![Escaped Status](Screenshots/player_escaped.png)
 
 ## Getting Started
 
