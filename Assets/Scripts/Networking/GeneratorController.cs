@@ -16,7 +16,7 @@ public class GeneratorController : NetworkBehaviour
     public int genID;
     public bool isFullyRepaired = false;
 
-    [SerializeField] private const float NEEDED_PROGRESS_FOR_COMPLETION = 15;
+    public const float NEEDED_PROGRESS_FOR_COMPLETION = 15;
     private NetworkVariable<float> curProgress = new NetworkVariable<float>(0);
     private float lastProgressUpdate = 0;
     [SerializeField] float progressInterval = 5f;
