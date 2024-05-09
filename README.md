@@ -8,17 +8,15 @@ This game revolves around a group of players who must work together to repair ge
 
 - **Generator Repairing:** Players must cooperate to repair generators scattered throughout the map to power exit gates and escape.
 - **Lobby System:** Seamless matchmaking and lobby management for players to join or host games, customize settings, and invite friends.
-- **Player States:** Players can be in one of several states during gameplay, including Alive, Dead, Escaped, and Disconnected. Each state affects gameplay dynamics and strategies.
+- **Player States:** Players can be in one of several states during gameplay, including Alive, Dead, Escaped, and Disconnected. Each player's state is determined server-side.
 - **Handling Disconnections:** Robust system for handling player disconnections gracefully, ensuring minimal disruption to ongoing matches.
-- **Dynamic Environments:** Rich and immersive environments filled with obstacles, hiding spots, and interactive elements that enhance gameplay and strategic options.
-- **Character Customization:** Customize your character's appearance and abilities to suit your playstyle and strategy.
 
 ## Screenshots
 
 ### Menu and Lobby 
 ![Main Menu](Screenshots/main_menu.png)
 ![Killer Lobby](Screenshots/killer_lobby.png)
-![Survivor Lobby](Screenshots/survivor_lobby.png)
+![Survivor Lobby](Screenshots/survivor_lobby_ready.png)
 ![All Players Ready Lobby](Screenshots/lobby_all_players_ready.png)
 
 ### Gameplay
@@ -28,8 +26,8 @@ This game revolves around a group of players who must work together to repair ge
 ### Survivor Status Symbols
 ![Alive Status](Screenshots/player_alive.png)
 ![Dead Status](Screenshots/player_dead.png)
-![Disconnected Status](Screenshots/player_disconnected.png)
-![Escaped Status](Screenshots/player_escaped.png)
+![Disconnected Status](Screenshots/survivor_disconnected.png)
+![Escaped Status](Screenshots/survivor_escaped.png)
 
 ## Getting Started
 
