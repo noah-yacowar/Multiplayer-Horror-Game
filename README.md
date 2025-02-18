@@ -1,8 +1,8 @@
 # Description
 
-Welcome to this Unity multiplayer game! This game offers a thrilling experience akin to the intense asymmetrical horror gameplay of popular titles in the genre. Players will find themselves immersed in a thrilling environment where teamwork, strategy, and quick decision-making are vital for survival.
+Welcome to this Unity horror coop! This game offers a thrilling experience akin to the intense horror gameplay of popular titles in the genre. Players will find themselves immersed in a thrilling environment where teamwork, strategy, and quick decision-making are vital for survival.
 
-This game revolves around a group of players who must work together to repair generators while being hunted by a formidable adversary. Each match is a test of skill and nerve as survivors must evade capture and certain death, while the hunter employs cunning tactics to ensnare and eliminate them.
+The game revolves around a group of players who must work together to repair generators while being hunted by a persuing hunter. Each match is a test of skill and nerve as survivors must evade capture and certain death, while the hunter employs cunning tactics to ensnare and eliminate them.
 
 ## Features
 
